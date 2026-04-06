@@ -3,5 +3,4 @@ basic.forever(function () {
     basic.pause(200)
     basic.showIcon(IconNames.Confused)
     basic.pause(200)
-    basic.showIcon(IconNames.TShirt)
 })
